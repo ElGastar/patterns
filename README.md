@@ -2,7 +2,7 @@
 
 ## Порождающие паттерны
 
-* [Абстрактная фабрика]()
+* [Абстрактная фабрика](https://github.com/ElGastar/patterns/blob/main/Creational/Abstract Factory.md)
 * [Строитель]()
 * [Фабричный метод]()
 * [Прототип]()
@@ -10,8 +10,8 @@
 
 ## Структурные паттерны
 
-* [Абстрактная фабрика]() 
-* [Мост]()
+* [Абстрактная фабрика](https://github.com/ElGastar/patterns/blob/main/Structural/Adapter.md)
+* [Мост](https://github.com/ElGastar/patterns/blob/main/Structural/Bridge.md)
 * [Компоновщик ]()
 * [Декоратор ]()
 * [Фасад ]()
@@ -20,7 +20,7 @@
 
 ## Поведенческие паттерны
 
-* [Цепочка обязанностей ]()
+* [Цепочка обязанностей ](https://github.com/ElGastar/patterns/blob/main/Behavioral/Chain of Responsibility.md)
 * [Команда ]()
 * [Итератор ]()
 * [Посредник ]()
