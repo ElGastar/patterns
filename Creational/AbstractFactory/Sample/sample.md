@@ -56,7 +56,7 @@ $programmerPhp.writePhpCode();
 class PhpDeveloper {
 
 public function writePhpCode():void{
-    echo "Writing C++ code";
+    echo "Writing Php code";
 }
 
 }
